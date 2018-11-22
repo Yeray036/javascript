@@ -20,3 +20,4 @@ console.log(mijnauto.merk);
 console.log(mijnauto.type);
 console.log(mijnauto.aantalWielen);
 console.log(mijnauto.kleur);
+document.getElementById("grotekop").innerHTML = mijnauto.kleur

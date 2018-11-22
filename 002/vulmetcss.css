@@ -1,0 +1,10 @@
+body {
+    margin: 0 15%;
+    font-family: 'Noto Serif', serif;
+}
+div {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
