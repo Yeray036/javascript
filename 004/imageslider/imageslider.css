@@ -1,0 +1,12 @@
+#slideholder {
+    height: 300px;
+    width: 300px;
+    border: 3px black solid;
+    transition: opacity 2s;
+}
+img {
+    width: 300px;
+    height: 300px;
+    min-width: 300px;
+    min-height: 300px;
+}
