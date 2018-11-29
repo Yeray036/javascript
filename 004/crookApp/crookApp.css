@@ -1,0 +1,20 @@
+div.container {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#eyes {
+    width: 300px;
+    height: 150px;
+    border: 0;
+}
+div#nose {
+    width: 300px;
+    height: 150px;
+    border: 0;
+}
+div#mouth {
+    width: 300px;
+    height: 150px;
+    border: 0;
+}
